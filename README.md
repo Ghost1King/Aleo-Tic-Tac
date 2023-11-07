@@ -1,6 +1,6 @@
 <!-- # ⭕ Tic-Tac-Toe -->
 
-[Ghost1King](https://github.com/Ghost1King)
+g.h.0.s.t.y
 
 A standard game of Tic-Tac-Toe in Leo.
 
